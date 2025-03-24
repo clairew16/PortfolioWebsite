@@ -164,6 +164,9 @@ section {
     justify-content: center;
     gap: 5rem;
     height: 80vh;
+    background-color:white;
+    background-image: url('assets/flower\ 2.png');
+    background-repeat: no-repeat;
 }
 
 .section__pic-container {
